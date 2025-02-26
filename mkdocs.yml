@@ -1,0 +1,6 @@
+site_name: MEU PRIMEIRO SITE
+site_author: Luíz Renato
+
+theme:material
+  name:material
+  language:pt
